@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    zeitwerk (2.5.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize (~> 0.8)
+  zeitwerk (~> 2.5)
+
+BUNDLED WITH
+   1.17.2
